@@ -1,4 +1,5 @@
 {
-  "python.pythonPath": "~\\",
-  "python.pipenvPath": "/usr/local/bin/pipenv"
+  "python.pythonPath": "C:\\Python39\\python.exe",
+  "python.linting.flake8Enabled": true,
+  "python.linting.enabled": true
 }
